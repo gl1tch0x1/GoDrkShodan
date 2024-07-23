@@ -22,8 +22,8 @@ This Bash script provides a comprehensive and interactive way to perform Google 
 
 Clone the repository and navigate to the directory:
 ```bash
-git clone https://github.com/yourusername/dork-shodan-tool.git
-cd dork-shodan-tool
+https://github.com/gl1tch0x1/GoDrkShodan.git
+cd GoDrkShodan
 ```
 
 ### Usage
